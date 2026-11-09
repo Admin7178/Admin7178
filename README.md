@@ -2,7 +2,7 @@
 class Yannai extends CarbonBased_Bipedal_Lifeform{
   static const name = "Yannai Gradwohl";
   static int age = 14;
-  static final prefferedOs = "Kali Linux";
+  static final preferredOS = "Kali Linux";
 
   static final traits = [
     'nerd',
