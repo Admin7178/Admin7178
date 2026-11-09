@@ -7,7 +7,7 @@ class Yannai extends CarbonBased_Bipedal_Lifeform{
   static final traits = [
     'nerd',
     'bookworm',
-    'geek',
+    'book/movie geek',
     'Doctor who fan',
     'bad at remembering names',
   ];
