@@ -1,16 +1,40 @@
-## Hi there 👋
+class Yannai extends Carbon-Based_Bipedal_Life-form{
+  static const name = "Yannai Gradwohl";
+  static int age = 14;
+  
 
-<!--
-**Admin7178/Admin7178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  static const hobbies = [
+  'Books',
+  'Movies',
+  'Cooking',
+  'Programming', 
+  'Breathing',
+  
+  ];
 
-Here are some ideas to get you started:
+  
+  static const interests = [
+  'cybersecurity',
+  'computers',
+  'physics',
+  'anything linked to new tech',
+  
+  ];
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  dynamic actions(bool isTired, bool isBored){
+    if(isTired && !isBored){
+      return self.sleep();
+    } 
+    else if(isTired && isBored){
+      return self.readBooks();
+    }
+    else if(!isTired && !isBored){
+      return self.doCode();
+    }
+    retun self.exist();
+  }
+
+  
+
+}
