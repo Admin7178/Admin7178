@@ -18,7 +18,7 @@ class Yannai extends CarbonBased_Bipedal_Lifeform{
   'Music': 'most any kind is awesome',
   'Cooking': 'food is incredible',
   'Programming': 'interested since i was 9',
-  'Breathing': 'since i left my mom's womb, procceeding nicely',
+  'Breathing': 'since i left my moms womb, procceeding nicely',
   };
 
   
