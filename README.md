@@ -40,7 +40,7 @@ class Yannai extends CarbonBased_Bipedal_Lifeform{
     else if(!isTired && !isBored){
       return self.doCode();
     }
-    retun self.exist();
+    return self.exist();
   }
 
   
