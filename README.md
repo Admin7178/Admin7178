@@ -10,7 +10,6 @@ class Yannai extends CarbonBased_Bipedal_Lifeform{
     'geek',
     'Doctor who fan',
     'bad at remembering names',
-    'great at bullshitting',
   ];
 
   static const hobbies = {
@@ -18,7 +17,7 @@ class Yannai extends CarbonBased_Bipedal_Lifeform{
   'Movies': 'sucker for fantasy/sci-fi',
   'Music': 'most any kind is awesome',
   'Cooking': 'food is incredible',
-  'Programming': 'since i was 9',
+  'Programming': 'interested since i was 9',
   'Breathing': 'since i left my mom, procceeding nicely',
   };
 
