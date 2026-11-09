@@ -16,8 +16,8 @@ class Yannai extends CarbonBased_Bipedal_Lifeform{
   static const hobbies = {
   'Books': 'Addicted since i was four',
   'Movies': 'sucker for fantasy/sci-fi',
-  'Music': 'most any genre is awesome',
-  'Cooking': 'food is awesome',
+  'Music': 'most any kind is awesome',
+  'Cooking': 'food is incredible',
   'Programming': 'since i was 9',
   'Breathing': 'since i left my mom, procceeding nicely',
   };
