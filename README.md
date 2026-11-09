@@ -1,5 +1,5 @@
 ```dart
-class Yannai extends Carbon-Based_Bipedal_Life-form{
+class Yannai extends CarbonBased_Bipedal_Lifeform{
   static const name = "Yannai Gradwohl";
   static int age = 14;
   static final prefferedOs = "Kali Linux";
