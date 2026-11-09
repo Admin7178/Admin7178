@@ -2,16 +2,25 @@
 class Yannai extends Carbon-Based_Bipedal_Life-form{
   static const name = "Yannai Gradwohl";
   static int age = 14;
-  
+  static final prefferedOs = "Kali Linux";
 
-  static const hobbies = [
-  'Books',
-  'Movies',
-  'Cooking',
-  'Programming', 
-  'Breathing',
-  
+  static final traits = [
+    'nerd',
+    'bookworm',
+    'geek',
+    'Doctor who fan',
+    'bad at remembering names',
+    'great at bullshitting',
   ];
+
+  static const hobbies = {
+  'Books': 'Addicted since i was four',
+  'Movies': 'sucker for fantasy/sci-fi',
+  'Music': 'most any genre is awesome',
+  'Cooking': 'food is awesome',
+  'Programming': 'since i was 9',
+  'Breathing': 'since i left my mom, procceeding nicely',
+  };
 
   
   static const interests = [
@@ -19,7 +28,6 @@ class Yannai extends Carbon-Based_Bipedal_Life-form{
   'computers',
   'physics',
   'anything linked to new tech',
-  
   ];
 
   
